@@ -6,7 +6,7 @@ This project implements a Monte Carlo Stock Simulation to predict future stock p
 
 <h2>Features</h2>
 
-Random Sampling: Utilizes random variable from a multivariate normal distribution to simulate daily stock returns, ensuring a realistic modeling of stochastic processes.
+Random Sampling: Utilizes random variables from a multivariate normal distribution to simulate daily stock returns, ensuring a realistic modeling of stochastic processes.
 
 Cholesky Decomposition: Implements Cholesky decomposition of the covariance matrix to incorporate inter-stock return correlations, preserving the historical variance-covariance structure.
 
