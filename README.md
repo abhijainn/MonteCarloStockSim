@@ -1,6 +1,6 @@
 # Monte Carlo Stock Simumation
 
-This project implements a Monte Carlo Stock Simulation to predict future stock prices based on historical data. The simulation uses random sampling from a normal distribution to model the variability in stock returns. Additionally, the Cholesky decomposition is applied to the covariance matrix to introduce correlations between stock returns.
+This project implements a Monte Carlo Stock Simulation to predict future stock prices based on historical data. The simulation uses random sampling from a normal distribution and time series forecasting to model the variability in stock returns across a set period of time. Additionally, the Cholesky decomposition is applied to the covariance matrix to introduce correlations between stock returns.
 
 
 <h2>How it Works</h2>
